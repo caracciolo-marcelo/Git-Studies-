@@ -1,0 +1,3 @@
+echo "# Git-Studies-" >> README.md
+git init
+git add README.md
